@@ -1,8 +1,8 @@
 ReactJS "Rick & Morty" characters wiki
 ------
-### Deploy on GH Pages: 
+### Deploy on Netlify: 
 
-(coming soon)
+https://wonderful-lamport-5d1950.netlify.app
 
 ### Used technologies
 
