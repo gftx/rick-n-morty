@@ -6,10 +6,11 @@ ReactJS "Rick & Morty" characters wiki
 
 ### Used technologies
 
-- ReactJS
-- React Hooks
-- React Router DOM
-- Axios
+- reactJS
+- react hooks
+- react router
+- axios
+- styled-components
 
 ### Need to do
 
