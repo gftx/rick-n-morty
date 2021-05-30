@@ -46,7 +46,6 @@ export default function Character(props) {
 	useEffect(() => {
 		axios.get(`https://rickandmortyapi.com/api/character/${id}`).then((res) => {
 			setCharacter(res.data);
-			console.log(res);
 		});
 	}, [id]);
 

@@ -25,7 +25,7 @@ const Card = styled.div`
 `;
 const Buttons = styled.div`
 	display: flex;
-    justify-content: center;
+	justify-content: center;
 `;
 
 const Button = styled.div`
@@ -35,7 +35,7 @@ const Button = styled.div`
 	border: 1px solid gray;
 	border-radius: 10px;
 	background-color: white;
-    cursor: pointer;
+	cursor: pointer;
 	:hover {
 		box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.24);
 	}
