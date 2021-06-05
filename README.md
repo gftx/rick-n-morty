@@ -1,7 +1,7 @@
 ReactJS "Rick & Morty" characters wiki
 ------
 
-!(rnm.gif "гифка")
+!(/rnm.gif "гифка")
 
 ### Deploy on Netlify: 
 
