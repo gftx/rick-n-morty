@@ -1,5 +1,7 @@
 ReactJS "Rick & Morty" characters wiki
 ------
+![alt-текст](https://github.com/gftx/rick-n-morty/rnm.gif "гифка")
+
 ### Deploy on GH Pages: 
 
 (coming soon)
