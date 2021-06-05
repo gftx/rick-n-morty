@@ -1,17 +1,19 @@
 ReactJS "Rick & Morty" characters wiki
 ------
+
 ![alt-текст](https://github.com/gftx/rick-n-morty/rnm.gif "гифка")
 
-### Deploy on GH Pages: 
+### Deploy on Netlify: 
 
-(coming soon)
+https://wonderful-lamport-5d1950.netlify.app
 
 ### Used technologies
 
-- ReactJS
-- React Hooks
-- React Router DOM
-- Axios
+- reactJS
+- react hooks
+- react router
+- axios
+- styled-components
 
 ### Need to do
 
